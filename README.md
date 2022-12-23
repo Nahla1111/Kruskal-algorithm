@@ -1,1 +1,1 @@
-# algorithm_task
+# Kruskal code
