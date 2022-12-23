@@ -1,1 +1,1 @@
-# Kruskal code
+# Kruskal's algorithm
